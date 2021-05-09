@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://longman.kim/</loc>
+    <lastmod>2021-05-09T20:32:57+08:00</lastmod>
+  </url><url>
+    <loc>https://longman.kim/post/</loc>
+    <lastmod>2021-05-09T20:32:57+08:00</lastmod>
+  </url><url>
+    <loc>https://longman.kim/post/daily-thoughts/</loc>
+    <lastmod>2021-05-09T20:32:57+08:00</lastmod>
+  </url><url>
+    <loc>https://longman.kim/post/web-development-efficiency-of-golang/</loc>
+    <lastmod>2021-04-11T21:52:15+08:00</lastmod>
+  </url><url>
     <loc>https://longman.kim/contact/</loc>
     <lastmod>2021-04-11T00:04:19+08:00</lastmod>
   </url><url>
     <loc>https://longman.kim/about/</loc>
     <lastmod>2021-04-11T00:04:08+08:00</lastmod>
-  </url><url>
-    <loc>https://longman.kim/</loc>
-    <lastmod>2021-04-10T22:54:02+08:00</lastmod>
-  </url><url>
-    <loc>https://longman.kim/post/</loc>
-    <lastmod>2021-04-10T22:54:02+08:00</lastmod>
   </url><url>
     <loc>https://longman.kim/post/soft-skill/</loc>
     <lastmod>2021-04-10T22:54:02+08:00</lastmod>
